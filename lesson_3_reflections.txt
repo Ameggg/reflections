@@ -24,7 +24,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Uploading updated files to google drive and informing others about it, they would check the changes and if they agree they would download it. This way is less efficient than using git and github as we are going through many interfaces, while we can just use the bash cmd to control all of the version-control system.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
